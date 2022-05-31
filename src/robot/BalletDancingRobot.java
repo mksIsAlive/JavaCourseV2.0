@@ -1,4 +1,4 @@
-package com.absoft.unit3;
+package robot;
 
 public class BalletDancingRobot extends DancingRobot {
     @Override

@@ -1,4 +1,4 @@
-package com.absoft.unit3;
+package robot;
 
 public abstract class DancingRobot {
     public String getDefaultDanceType(){

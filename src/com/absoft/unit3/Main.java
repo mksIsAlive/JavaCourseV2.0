@@ -1,5 +1,10 @@
 package com.absoft.unit3;
 
+import robot.BalletDancingRobot;
+import robot.DancingRobot;
+import robot.FolkDancingRobot;
+import robot.JazzDancingRobot;
+
 public class Main {
     public static void main(String[] args) {
         DancingRobot robot1 = new BalletDancingRobot();
