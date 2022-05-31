@@ -4,9 +4,11 @@ public class Main {
     public static void main(String[] args) {
         DancingRobot robot1 = new BalletDancingRobot();
         DancingRobot robot2 = new FolkDancingRobot();
+        DancingRobot robot3 = new JazzDancingRobot();
 
         printRobotInfo(robot1);
         printRobotInfo(new FolkDancingRobot());
+        printRobotInfo(new JazzDancingRobot());
     }
 
     private static void printRobotInfo(DancingRobot robot1) {
